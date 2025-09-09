@@ -1,0 +1,15 @@
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Introdução ao LINQ\Introducao-LINQ\IniciandoOLinq\IniciandoOLinq\bin\Debug\net9.0\IniciandoOLinq.exe
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Introdução ao LINQ\Introducao-LINQ\IniciandoOLinq\IniciandoOLinq\bin\Debug\net9.0\IniciandoOLinq.deps.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Introdução ao LINQ\Introducao-LINQ\IniciandoOLinq\IniciandoOLinq\bin\Debug\net9.0\IniciandoOLinq.runtimeconfig.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Introdução ao LINQ\Introducao-LINQ\IniciandoOLinq\IniciandoOLinq\bin\Debug\net9.0\IniciandoOLinq.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Introdução ao LINQ\Introducao-LINQ\IniciandoOLinq\IniciandoOLinq\bin\Debug\net9.0\IniciandoOLinq.pdb
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Introdução ao LINQ\Introducao-LINQ\IniciandoOLinq\IniciandoOLinq\obj\Debug\net9.0\IniciandoOLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Introdução ao LINQ\Introducao-LINQ\IniciandoOLinq\IniciandoOLinq\obj\Debug\net9.0\IniciandoOLinq.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Introdução ao LINQ\Introducao-LINQ\IniciandoOLinq\IniciandoOLinq\obj\Debug\net9.0\IniciandoOLinq.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Introdução ao LINQ\Introducao-LINQ\IniciandoOLinq\IniciandoOLinq\obj\Debug\net9.0\IniciandoOLinq.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Introdução ao LINQ\Introducao-LINQ\IniciandoOLinq\IniciandoOLinq\obj\Debug\net9.0\IniciandoOLinq.sourcelink.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Introdução ao LINQ\Introducao-LINQ\IniciandoOLinq\IniciandoOLinq\obj\Debug\net9.0\IniciandoOLinq.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Introdução ao LINQ\Introducao-LINQ\IniciandoOLinq\IniciandoOLinq\obj\Debug\net9.0\refint\IniciandoOLinq.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Introdução ao LINQ\Introducao-LINQ\IniciandoOLinq\IniciandoOLinq\obj\Debug\net9.0\IniciandoOLinq.pdb
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Introdução ao LINQ\Introducao-LINQ\IniciandoOLinq\IniciandoOLinq\obj\Debug\net9.0\IniciandoOLinq.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Introdução ao LINQ\Introducao-LINQ\IniciandoOLinq\IniciandoOLinq\obj\Debug\net9.0\ref\IniciandoOLinq.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IniciandoOLinq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfb859107499355c5b7e0795ee644504f3502b4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d8cb289478a8aa59806be96d23f9741aba31316")]
 [assembly: System.Reflection.AssemblyProductAttribute("IniciandoOLinq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IniciandoOLinq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,5 +12,12 @@ public class Program
         //Definir a expressão de consulta
 
         var result = numbers.Where(x => x % 2 == 0).Select(x => x * 10);
+        
+        // Executar a consulta
+
+        foreach (var x in result)
+        {
+            Console.WriteLine(x);
+        }
     }
 }
