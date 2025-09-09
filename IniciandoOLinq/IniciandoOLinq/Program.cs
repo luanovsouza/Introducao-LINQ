@@ -12,6 +12,8 @@ public class Program
         //Definir a expressão de consulta
 
         var result = numbers.Where(x => x % 2 == 0).Select(x => x * 10);
+        //Usando o where para filtrar a fonte de dados, ou seja, criando uma condição
+        //Usando o Select para pegar cada elemento que tem números pares e multiplicando por 10, gerando uma nova coleção 
         
         // Executar a consulta
 
